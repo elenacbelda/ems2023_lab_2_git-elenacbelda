@@ -4,7 +4,7 @@ background:white;
 }
 header {
 display:block;
-background:#d7e0e9;
+background:#FF9EFF;
 padding:10px 0px;
 }
 section {
@@ -21,7 +21,7 @@ margin-top: -50px;
 height: 40px;
 padding:5px 0px;
 clear: both;
-background: #d7e0e9;
+background: #FF8EFF;
 text-align: center;
 color: black;
 }
